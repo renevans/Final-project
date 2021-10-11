@@ -8,7 +8,7 @@ Compiling_dataset → code included for web scraping the apartments sold and ext
 
 Combined_dataframe → includes code to combine the list of sold apartments, their features and selling prices
 
-Cleaning dataframe(part 1) and (part 2) → Performing exploratory analysis and cleaning data so it can be used in a model.  
+Cleaning dataframe(part 1) and (part 2) → performing exploratory analysis and cleaning data so it can be used in a model  
 
 Model_final_transaction_price → code for fitting/training various models to predict transaction prices
 
